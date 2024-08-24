@@ -15,7 +15,7 @@
 </div>
 
 <div>
-<a href="https://github.com/daniel-assis-88b9772ab">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-assis-88b9772ab&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-assis-88b9772ab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/GitDanHuby">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitDanHuby&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GitDanHuby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
